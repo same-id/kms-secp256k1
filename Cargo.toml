@@ -20,7 +20,6 @@ version = "0.9"
 
 [dependencies.paillier]
 git = "https://github.com/KZen-networks/rust-paillier"
-tag = "v0.3.10"
 default-features = false
 
 [dependencies.zk-paillier]
