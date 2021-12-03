@@ -30,8 +30,7 @@ tag = "v0.3.12"
 default-features = false
 
 [dependencies.multi-party-schnorr]
-git = "https://github.com/KZen-networks/multi-party-schnorr"
-tag = "v0.4.5"
+git = "https://github.com/same-id/multi-party-schnorr"
 default-features = false
 
 [dependencies.multi-party-ecdsa]
