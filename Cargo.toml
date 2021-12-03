@@ -35,8 +35,7 @@ tag = "v0.4.5"
 default-features = false
 
 [dependencies.multi-party-ecdsa]
-git = "https://github.com/KZen-networks/multi-party-ecdsa"
-tag = "v0.4.6"
+git = "https://github.com/same-id/multi-party-ecdsa"
 default-features = false
 
 [dependencies.centipede]
